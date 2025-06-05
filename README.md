@@ -49,3 +49,8 @@ Step 1
 npm i OR npm install
 
 npm run dev
+
+
+## After this steps are done
+go to the 
+http://localhost:5173/
